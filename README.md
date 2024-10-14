@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_gabriel08/)
 [![Linkendln]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-marcos-da-silva-b1695b331/)
 
-![jgabriel1800 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgabriel1800&show_icons=true&theme=dracula)
+![Jgabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgabriel1800&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabriel1800)](https://github.com/anuraghazra/github-readme-stats)
 ### Tecnologias que que mais utilizo nos meus projetos:
